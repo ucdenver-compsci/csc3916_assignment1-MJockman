@@ -17,7 +17,7 @@ You will create a Postman collection and create a REST test within the project. 
 
 ## Submissions
 - All source code should be stored on github (remember .gitignore for node_modules)
-- API needs to be deployed to heroku
+- API needs to be deployed to render
 - Create a readme.md at the root of your github repository with the embedded (markdown) to your test collection
     - Within the collection click the (…), share collection -> Embed
     - Static Button
@@ -32,11 +32,4 @@ You will create a Postman collection and create a REST test within the project. 
 - -5 - Missing Postman Test
 - -1 - For each missing assert (test)
 
-## Resources
-- http://nodejs.org
-- http://www.passportjs.org/docs/basic-digest/
-- https://devcenter.heroku.com/articles/heroku-cli 
-- https://devcenter.heroku.com/articles/config-vars 
-- https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1e37a1a45fd828a9cb10)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/32580583-d9e6454c-dfc9-4b0a-a15f-fd2806fe8931?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D32580583-d9e6454c-dfc9-4b0a-a15f-fd2806fe8931%26entityType%3Dcollection%26workspaceId%3De6800d05-dff0-4df2-9ad0-6e4c14bf7e1f)
